@@ -32,7 +32,7 @@ package com.Interfaces.practice;
 	   int width=5;
 	   @Override
 	   public void draw() {
-		   System.out.println("Rectangle  Drwan");
+		   System.out.println("Rectangle  Drawn");
 	   }
 	   @Override
 	   public double area() {
